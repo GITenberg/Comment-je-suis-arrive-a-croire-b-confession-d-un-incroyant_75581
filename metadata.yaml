@@ -1,0 +1,40 @@
+_repo: Comment-je-suis-arrive-a-croire-b-confession-d-un-incroyant_75581
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mazon, Albin
+    aliases:
+    - Docteur Francus
+    - Dr Francus
+    - Francus, Docteur
+    - Mazon, A. (Albin)
+    - Mazon, Charles-Albin
+    birthdate: 1828
+    deathdate: 1908
+    gutenberg_agent_id: '58108'
+    url: http://www.gutenberg.org/2009/agents/58108
+    wikipedia: https://fr.wikipedia.org/wiki/Albin_Mazon
+description: ''
+gutenberg_issued: '2025-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75581'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k915264
+pgterms:marc905: 20250218131709docteurfra
+pgterms:marc906: '1901'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bBloud, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritual biography'
+- !lcsh 'Conversion -- Christianity'
+- !lcsh 'Faith (Christianity)'
+- !lcc 'BV'
+- GITenberg
+title: 'Comment je suis arrivé à croire : $b confession d''un incroyant'
+url: http://www.gutenberg.org/ebooks/75581
